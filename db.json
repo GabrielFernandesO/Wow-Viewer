@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "",
+      "email": "",
+      "password": "",
+      "profilePic": "",
+      "message": "Sucess"
+    },
+    {
+      "id": 2
+    },
+    {
+      "username": "juva015",
+      "email": "juhabitoropa223@hotmail.com",
+      "password": "123",
+      "profilePic": "",
+      "id": 3
+    },
+    {
+      "username": "Joao",
+      "email": "toropinha223@hotmail.com",
+      "password": "123",
+      "profilePic": "",
+      "id": 4
+    }
+  ]
+}
